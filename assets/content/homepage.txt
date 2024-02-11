@@ -1,0 +1,39 @@
+DineEase Showcase Website - Home Page
+
+Hero Section:
+DineEase: Exceptional Dining Awaits.
+
+Dive into culinary wonders with DineEase. We curate top-rated restaurants, each with distinct flavors and ambiance. From international dishes to traditional delights and gastronomic adventures, find your perfect spot with DineEase.
+
+Featured Restaurants:
+Discover Unforgettable Dining Destinations
+
+- Sarmale Bistro: Experience Romania's culinary heart at Sarmale Bistro. Savor classics with a modern touch in our intimate, authentic ambiance. Celebrate timeless tradition.
+- La Piața: Discover a fusion of Europe's flavors at La Piața, set in the heart of the city. Savor dishes from locally-sourced ingredients in our cozy bistro ambiance.
+- Halász Fogadó: Immerse in Eastern European authenticity at Halász Fogadó. Relish traditional dishes amid an atmosphere rich in charm and history. Join us for a timeless culinary experience.
+
+Link text: View restaurant »
+
+Testimonials:
+Delightful Experiences Shared by Our Guests
+
+- "Exquisite flavors, impeccable service, and a memorable ambiance – DineEase made our celebration truly special!" - Robert & Emily
+- "DineEase guided us to hidden gems we never knew existed! We've become food adventurers, thanks to this platform." - Lisa & Mark
+- "With DineEase, we've uncovered culinary treasures right in our city. Every dining recommendation feels like an exclusive invitation to a world of flavors. We thought we knew our local dining scene, but DineEase introduced us to so much more." - Emma & Jacob
+
+Restaurant search:
+Find Your Perfect Dining Spot
+Search by Cuisine, Location, or Name
+
+- Sarmale Bistro: Experience Romania's culinary heart at Sarmale Bistro. Savor classics with a modern touch in our intimate, authentic ambiance. Celebrate timeless tradition.
+- La Piața: Discover a fusion of Europe's flavors at La Piața, set in the heart of the city. Savor dishes from locally-sourced ingredients in our cozy bistro ambiance.
+- Halász Fogadó: Immerse in Eastern European authenticity at Halász Fogadó. Relish traditional dishes amid an atmosphere rich in charm and history. Join us for a timeless culinary experience.
+
+Footer:
+- Terms of Use
+- Contact
+
++36 30 123 4567
+support@dineease.com
+
+© 2023 - All rights reserved
