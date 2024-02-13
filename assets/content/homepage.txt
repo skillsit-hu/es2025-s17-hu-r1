@@ -28,12 +28,12 @@ Search by Cuisine, Location, or Name
 - Sarmale Bistro: Experience Romania's culinary heart at Sarmale Bistro. Savor classics with a modern touch in our intimate, authentic ambiance. Celebrate timeless tradition.
 - La Piața: Discover a fusion of Europe's flavors at La Piața, set in the heart of the city. Savor dishes from locally-sourced ingredients in our cozy bistro ambiance.
 - Halász Fogadó: Immerse in Eastern European authenticity at Halász Fogadó. Relish traditional dishes amid an atmosphere rich in charm and history. Join us for a timeless culinary experience.
+- Gospoda Krakowska: Indulge in classic Polish recipes in a quaint setting, reminiscent of Warsaw's charm.
 
 Footer:
-- Terms of Use
-- Contact
+- Privacy Policy
 
 +36 30 123 4567
 support@dineease.com
 
-© 2023 - All rights reserved
+© 2024 - All rights reserved
