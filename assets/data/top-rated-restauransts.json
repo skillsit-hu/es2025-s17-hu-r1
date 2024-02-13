@@ -1,0 +1,29 @@
+[
+    {
+      "id": 12,
+      "name": "Sarmale Bistro",
+      "location": "Timisoara",
+      "cuisine": "Romanian",
+      "description": "Experience Romania's culinary heart at Sarmale Bistro. Savor classics with a modern touch in our intimate, authentic ambiance. Celebrate timeless tradition.",
+      "rating": 5,
+      "image": "https://es2025-s17-hu-r1-backend.onrender.com/Restaurant3.png"
+    },
+    {
+      "id": 14,
+      "name": "Halász Fogadó",
+      "location": "Székesfehérvár",
+      "cuisine": "Seafood",
+      "description": "Immerse in Eastern European authenticity at Halász Fogadö. Relish traditional dishes amid an atmosphere rich in charm and history. Join us for a timeless culinary experience.",
+      "rating": 5,
+      "image": "https://es2025-s17-hu-r1-backend.onrender.com/Restaurant2.png"
+    },
+    {
+      "id": 2,
+      "name": "La Piața",
+      "location": "Bucharest",
+      "cuisine": "Romanian",
+      "description": "Discover a fusion of Europe's flavors at La Piața, set in the heart of the city. Savor dishes from locally-sourced ingredients in our cozy bistro ambiance.",
+      "rating": 4,
+      "image": "https://es2025-s17-hu-r1-backend.onrender.com/Restaurant2.png"
+    }
+  ]
