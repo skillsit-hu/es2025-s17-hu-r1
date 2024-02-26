@@ -1,6 +1,9 @@
 # EuroSkills Herning 2025 National Selection, Skill 17 (Web Development)
 
 [Hungarian version](README.md)
+
+![EuroSkills Herning 2025](https://skillsit.hu/wp-content/uploads/2024/01/es2025-herning.png)
+
 ## Round 1
 
 Below, we share the most important information about the first round of this round.
